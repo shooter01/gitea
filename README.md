@@ -10,7 +10,7 @@
 4.
 таска
 идея тут
-[м](https://github.com/shooter01/gitea/issues/4)
+  [https://github.com/shooter01/gitea/issues/4](https://github.com/shooter01/gitea/issues/4)
 
 
 5. почему падает workflow ?
